@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1619130656 source:/home/leo/Documentos/Temporizador/main.cpp
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619129359 source:/home/leo/Documentos/Temporizador/cromado.cpp
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619066777 source:/home/leo/Documentos/Temporizador/menuCentral.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+
